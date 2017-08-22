@@ -1,0 +1,10 @@
+a{
+	color:green;
+	text-decoration:white;
+}
+
+a:hover{
+	color:blue;
+	background: white;
+	text-decoration:white;
+}
