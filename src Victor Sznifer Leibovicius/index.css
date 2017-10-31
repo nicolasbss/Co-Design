@@ -99,17 +99,14 @@ margin: 0;
 }
 
 .navegacao2 ul li ul li {
-  padding-left:=-50px;
+    padding-left:=-50px;
   display: none;
-  position:absolute;
+  position: relative;
 }
 
 .navegacao2 ul li:hover ul li{
   margin-left:=0px;
-  display: block;
-  position: relative;
-
-
+  display: block
 }
 
 
@@ -232,10 +229,11 @@ footer a:hover {
 
 section{
   height: 80%;
+  background-color:#EEF0F2;
 }
 
 #section2{
-	height: 60%;
+	height: 80%;
 }
 #section3{
 	height: 50%;
@@ -281,4 +279,10 @@ section{
 	
 }
 
-
+.textoprojeto{
+  margin-right:-150px;
+  float:left;
+}
+#imge{
+  margin-top: 0px;
+}
